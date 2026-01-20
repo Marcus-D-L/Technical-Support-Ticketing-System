@@ -1,0 +1,31 @@
+# Ticket TS-005
+
+**Date Opened:** 2026-01-20  
+**Issue Category:** Mechanical / Safety Interlock  
+**Customer Type:** Dealer  
+**Product Type:** Gas-Powered Equipment  
+**Priority Level:** High  
+
+## Problem Description
+Dealer reports equipment shuts off immediately after startup, preventing normal operation.
+
+## Environment / Context
+Equipment recently serviced. Safety features engaged during startup sequence. No error codes displayed.
+
+## Troubleshooting Steps Taken
+1. Verified safety interlock and operator presence controls
+2. Inspected safety switch alignment
+3. Checked for obstructions or misaligned components
+4. Tested startup sequence after adjustment
+
+## Resolution
+Safety switch was misaligned during servicing. Switch was repositioned and secured, restoring normal operation.
+
+## Root Cause
+Improper alignment of safety interlock switch following recent maintenance.
+
+## Preventive Recommendation
+Ensure safety interlock alignment is verified after servicing and before returning equipment to operation.
+
+**Date Closed:** 2026-01-20  
+**Resolution Time:** 1.3 hours

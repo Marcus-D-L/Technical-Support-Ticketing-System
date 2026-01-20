@@ -1,0 +1,31 @@
+# Ticket TS-001
+
+**Date Opened:** 2026-01-20  
+**Issue Category:** Power / Startup Issue  
+**Customer Type:** Dealer  
+**Product Type:** Battery-Powered Equipment  
+**Priority Level:** High  
+
+## Problem Description
+Dealer reports equipment will not power on even though the battery indicates a full charge.
+
+## Environment / Context
+Equipment stored in a garage environment. Ambient temperature approximately 40°F. No recent firmware updates reported.
+
+## Troubleshooting Steps Taken
+1. Verified battery charge level
+2. Tested with a known-good battery
+3. Inspected battery terminals for corrosion or debris
+4. Checked safety switch engagement
+
+## Resolution
+Battery terminals were cleaned and reseated. Unit powered on and operated normally after corrective action.
+
+## Root Cause
+Poor electrical contact at battery terminals caused by debris buildup.
+
+## Preventive Recommendation
+Recommend routine inspection and cleaning of battery terminals during scheduled maintenance to prevent recurrence.
+
+**Date Closed:** 2026-01-20  
+**Resolution Time:** 1.2 hours

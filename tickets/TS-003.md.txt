@@ -1,0 +1,31 @@
+# Ticket TS-003
+
+**Date Opened:** 2026-01-20  
+**Issue Category:** Error Code / Warning  
+**Customer Type:** Dealer  
+**Product Type:** Smart / Connected Equipment  
+**Priority Level:** High  
+
+## Problem Description
+Dealer reports an error code displayed during startup, preventing the equipment from entering normal operation.
+
+## Environment / Context
+Equipment connected to companion mobile application. Recent firmware update was applied prior to issue occurrence.
+
+## Troubleshooting Steps Taken
+1. Verified error code against diagnostic reference
+2. Confirmed firmware version and update status
+3. Performed standard power reset procedure
+4. Reattempted firmware synchronization
+
+## Resolution
+Firmware update was incomplete and caused the startup error. Firmware was reinstalled successfully and error code was cleared.
+
+## Root Cause
+Interrupted firmware update resulting in corrupted startup sequence.
+
+## Preventive Recommendation
+Recommend ensuring stable power and connectivity during firmware updates and verifying update completion before use.
+
+**Date Closed:** 2026-01-20  
+**Resolution Time:** 2.0 hours

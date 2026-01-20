@@ -1,0 +1,31 @@
+# Ticket TS-004
+
+**Date Opened:** 2026-01-20  
+**Issue Category:** Connectivity / App Issue  
+**Customer Type:** End User  
+**Product Type:** Smart / Connected Equipment  
+**Priority Level:** Medium  
+
+## Problem Description
+Customer reports equipment is not connecting to the mobile application via Bluetooth, preventing access to settings and diagnostics.
+
+## Environment / Context
+Customer using a smartphone with the latest operating system. Equipment previously paired successfully. Issue began after recent app update.
+
+## Troubleshooting Steps Taken
+1. Confirmed Bluetooth enabled on mobile device
+2. Restarted both equipment and mobile device
+3. Verified application permissions
+4. Removed and re-paired Bluetooth connection
+
+## Resolution
+Bluetooth connection was reset and device was successfully re-paired with the application. Full functionality restored.
+
+## Root Cause
+Bluetooth pairing conflict caused by application update.
+
+## Preventive Recommendation
+Advise users to restart and re-pair equipment after application updates to avoid connectivity conflicts.
+
+**Date Closed:** 2026-01-20  
+**Resolution Time:** 1.0 hour

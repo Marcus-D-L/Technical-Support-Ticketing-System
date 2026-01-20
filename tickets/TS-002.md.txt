@@ -1,0 +1,31 @@
+# Ticket TS-002
+
+**Date Opened:** 2026-01-20  
+**Issue Category:** Performance Degradation  
+**Customer Type:** End User  
+**Product Type:** Gas-Powered Equipment  
+**Priority Level:** Medium  
+
+## Problem Description
+Customer reports reduced cutting performance and intermittent stalling during normal operation.
+
+## Environment / Context
+Equipment used for residential yard maintenance. Unit has not received recent servicing. Fuel reported to be from an older container.
+
+## Troubleshooting Steps Taken
+1. Confirmed symptoms during operation
+2. Inspected air filter for blockage
+3. Checked fuel quality and fuel lines
+4. Verified choke and throttle operation
+
+## Resolution
+Air filter was heavily clogged and fuel was stale. Air filter was replaced and fresh fuel was added. Equipment operated normally after service.
+
+## Root Cause
+Restricted airflow and degraded fuel quality causing inefficient combustion.
+
+## Preventive Recommendation
+Advise regular air filter inspection and replacement per maintenance schedule and use of fresh fuel to maintain optimal performance.
+
+**Date Closed:** 2026-01-20  
+**Resolution Time:** 1.5 hours
